@@ -1,0 +1,97 @@
+.foto img{
+    height: 100%;
+    width: 30%;
+}
+.header{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-between;
+    margin: 5%;
+   
+}
+
+.header .button{
+    font-size: smaller;
+}
+.header .button a{
+    background-color: #ff497c;
+    color: white;
+    text-decoration: none;
+    width: 162px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+   
+}
+
+.header .button p{
+    display: inline-block;
+    margin-right: 32px;
+}
+.orta{
+
+    display: flex;
+    margin-left: 75px;
+}
+
+.orta .div-sag button{
+    border-radius: 7px;
+    background-color: #3577f0;
+    color: white;
+    border: none;
+    margin-top: 38px;
+    width: 123px;
+    height: 55px;
+}
+.orta .div-sag {
+  /* margin-left: 285px; */
+  width: 810px;
+  margin-top: 70px;
+  margin-left: 225px;
+}
+
+
+.orta .div-sag a{
+  text-decoration: none;
+}
+
+.orta .div-sol h1{
+    font-size: 31px;
+    margin-top: 48px;
+
+}
+.orta input{
+    padding: 0 30px;
+    height: 60px;
+}
+/* .orta .div-sag label{
+    position: absolute;
+    top: -11px;
+    left: 20px;
+    pointer-events: none;
+    z-index: 4;
+    background: #fff;
+    padding: 0 10px;
+} */
+/* .signin-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 40px 100px;
+    z-index: 1;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+a {
+        color: #0d6efd;
+        text-decoration: underline;
+  } */
+
+  @media(max-width: 576px){
+    
+}
